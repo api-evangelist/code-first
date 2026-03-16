@@ -1,14 +1,26 @@
+aid: code-first
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/code-first/refs/heads/main/apis.yml
 name: Code First
-description: A development approach where code is the primary source of truth, with
-  database schemas, API definitions, or infrastructure configurations generated from
-  the code rather than designed separately or visually. Organizations adopt it to
-  address specific technical or business challenges in their environments.
-url: https://en.wikipedia.org/wiki/Code_first
 tags:
-- Development Methodology
-- Software Architecture
-- Code Generation
-created: '2025'
-modified: '2025'
+  - Development Methodology
+  - Software Architecture
+  - Code Generation
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2025-01-01'
+modified: '2026-03-16'
+position: Consumer
+description: >-
+  A development approach where code is the primary source of truth, with
+  database schemas, API definitions, or infrastructure configurations generated
+  from the code rather than designed separately or visually.
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://en.wikipedia.org/wiki/Code_first
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+specificationVersion: '0.19'
