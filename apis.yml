@@ -3,9 +3,9 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/code-first/refs/heads/main/apis.yml
 name: Code First
 tags:
+  - Code Generation
   - Development Methodology
   - Software Architecture
-  - Code Generation
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
