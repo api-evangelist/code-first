@@ -38,7 +38,7 @@ access: 3rd-Party
 kind: topic
 created: '2025-01-01'
 modified: '2026-04-26'
-position: Consumer
+position: Consuming
 description: >-
   Code-first is an API design and software development approach where the
   application's source code is the primary source of truth and the API
